@@ -1,4 +1,24 @@
 <resources>
     <string name="app_name">About Me</string>
     <string name="textname">Chaity Paul</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="todo">TODO</string>
+    <string name="bio">
+        I am Chaity Paul. I am a student at the University of Rajshahi.
+    \n\n I am a student of Computer Science and Engineering Department.
+    \n\n I love to learn new things.
+        \n\n I am a fan of Android. I like to hear music.
+    \n I like to read books. I like to play games. I like to watch movies.
+    \n\n I am from Rajshahi, Bangladesh.
+    \n I love my country.
+        \n\n My favorite food is pizza.
+        \n My favorite drink is coffee.
+        \n My favorite color is purple.
+        \n\n I love coding but still now I can not do well in it.
+        \n\n I am new at Android.
+        \n\n Patience is needed to learn Android.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+    <string name="nickname_text">Nickname</string>
 </resources>
